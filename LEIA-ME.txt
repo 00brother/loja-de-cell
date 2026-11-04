@@ -1,0 +1,22 @@
+CONSERTA CELL — SITE PERSONALIZADO
+
+Arquivos:
+- index.html: estrutura e conteúdo do site
+- style.css: identidade visual, cores e responsividade
+- script.js: menu mobile, animações e ano automático
+- assets/logo-conserta-cell.png: logo oficial enviada pelo cliente
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador.
+
+Para publicar:
+Envie index.html, style.css, script.js e a pasta assets completa para a hospedagem.
+
+Dados configurados:
+WhatsApp: +55 43 99837-0350
+Localização: Conserta Cell, Arapongas - PR (link do Google Maps informado)
+Horários: segunda a sexta 08:30–19:00; sábado 08:30–17:00; domingo fechado.
+
+Atenção:
+O endereço completo, lista exata de reparos, marcas atendidas, garantias e preços não foram inventados. Confirme esses dados com a loja antes de acrescentá-los.
